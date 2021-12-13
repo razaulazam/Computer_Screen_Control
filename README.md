@@ -6,4 +6,4 @@ This is a very simple program which I wrote for automatically opening the applic
 
 # Installation
 
-Open command prompt on Windows/terminal on Linux and type `pip install requirements.txt`. Make sure to change the path and reside in this folder before running this program. Run `restart_programs.py` and see the magic.
+Open command prompt on Windows/terminal on Linux and type `pip install -r requirements.txt`. Make sure to change the path and reside in this folder before running this program. Run `restart_programs.py` and see the magic.

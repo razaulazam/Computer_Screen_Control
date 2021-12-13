@@ -6,7 +6,7 @@ from typing import Tuple
 
 try:
     import pyautogui #type: ignore
-except ImportError as error:
+except ImportError as _:
     print("Please Install PyAutoGui correctly!")
     sys.exit()
 
