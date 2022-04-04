@@ -1,4 +1,4 @@
-# Computer_Screen_Control
+# Controller
 
 This is a very simple program which I wrote for automatically opening the applications when I restart my computer. Normally, I have a lot of applications opened on my machine and sometimes due to software updates I have to restart my computer which basically annoys me since I have to launch the applications from scratch again. In order to mitigate this problem and make my life a bit easier, I wrote this short program which uses Python packages for automatically opening my applications of interest.
 
